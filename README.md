@@ -7,5 +7,5 @@
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=clion,androidstudio,idea,rider,webstorm,phpstorm,vscode,vscodium,cmake,git,linux" />
   <h1>Social media / Get in contact with me</h1>
-  <a href="https://krypt0n.eu/">More on my website</a>
+  <a href="https://petrzik.dev/">More on my website</a>
 </p>
